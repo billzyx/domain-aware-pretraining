@@ -1,0 +1,10 @@
+bert-base-uncased
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/cola
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/mnli
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/mrpc
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/qnli
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/qqp
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/rte
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/sst2
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/stsb
+checkpoints_ppl/ADReSS20-train-transcript-rdiff-icu/3/wnli
